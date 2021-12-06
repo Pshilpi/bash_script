@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "Hello Time:";while [ 1 ];do date "+%T"; sleep 60; done
